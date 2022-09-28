@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ibrahim Lawal
-- 👀 I’m interested in building responsive mobile applications
-- 🌱 I’m currently learning Kotlin/Java for android development
-- 💞️ I’m looking to collaborate on Open source projects centered around Android Development
+- 👀 I’m interested in building responsive web applications 
+- 🌱 I’m currently working Java/Kotlin for building scalable, maintenable and testable backend applications
+- 💞️ I’m looking to collaborate on Open source projects centered around Enterprise Java applications and Android development 
 - 📫 How to reach me ...lawalibrahimayodeji@gmail.com
 
 <!---
